@@ -14,9 +14,9 @@
 
  #### User Stories
  
- -As a user I would like to be able to browse through content with ease and be able to search for content that I am looking for.
+ - As a user I would like to be able to browse through content with ease and be able to search for content that I am looking for.
  
- -As a creator I would like the process to be simple and be able to categorize my videos.
+ - As a creator I would like the process to be simple and be able to categorize my videos.
 
  #### Contact
    Creators: @brenbtc (yanohb@yahoo.com) & @mhoong (mhoonggit@gmail.com)
