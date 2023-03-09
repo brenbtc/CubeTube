@@ -10,7 +10,7 @@
  - Ethereum
  
  ###### Status 
-   Status: Project in Progress
+ ! [#FFFF00] Project in Progress `#FFFF00`
 
  ###### Contact
    Creators: @brenbtc (yanohb@yahoo.com) & @mhoong (mhoonggit@gmail.com)
