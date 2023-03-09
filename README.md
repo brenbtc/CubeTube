@@ -12,3 +12,5 @@ CubeTube is a YouTube-like web application that combines the power of blockchain
  ###### Status 
  Status: Project in Progress
 
+ ###### Contact
+ Creators: @brenbtc (yanohb@yahoo.com) & @mhoong (mhoonggit@gmail.com)
