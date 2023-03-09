@@ -2,7 +2,7 @@
 
 ###### About
 
-CubeTube is a YouTube-like web application that combines the power of blockchain technology with React to create a revolutionary platform for users to share and view content. At its core, CubeTube is built using a variety of programming languages and technologies including:
+  CubeTube is a YouTube-like web application that combines the power of blockchain technology with React to create a revolutionary platform for users to  share and view content. At its core, CubeTube is built using a variety of programming languages and technologies including:
  - Solidity
  - JavaScript
  - React
@@ -10,7 +10,7 @@ CubeTube is a YouTube-like web application that combines the power of blockchain
  - Ethereum
  
  ###### Status 
- Status: Project in Progress
+   Status: Project in Progress
 
  ###### Contact
- Creators: @brenbtc (yanohb@yahoo.com) & @mhoong (mhoonggit@gmail.com)
+   Creators: @brenbtc (yanohb@yahoo.com) & @mhoong (mhoonggit@gmail.com)
